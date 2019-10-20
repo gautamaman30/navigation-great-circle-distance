@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/navigation-great-circle-distance/static/css/main.d61d8f1f.chunk.css",
+    "main.js": "/navigation-great-circle-distance/static/js/main.cb89c6b1.chunk.js",
+    "main.js.map": "/navigation-great-circle-distance/static/js/main.cb89c6b1.chunk.js.map",
+    "runtime-main.js": "/navigation-great-circle-distance/static/js/runtime-main.bbdb7ce9.js",
+    "runtime-main.js.map": "/navigation-great-circle-distance/static/js/runtime-main.bbdb7ce9.js.map",
+    "static/js/2.a5dfedab.chunk.js": "/navigation-great-circle-distance/static/js/2.a5dfedab.chunk.js",
+    "static/js/2.a5dfedab.chunk.js.map": "/navigation-great-circle-distance/static/js/2.a5dfedab.chunk.js.map",
+    "index.html": "/navigation-great-circle-distance/index.html",
+    "precache-manifest.9f3b9704c11d9e52eba1680f48b48360.js": "/navigation-great-circle-distance/precache-manifest.9f3b9704c11d9e52eba1680f48b48360.js",
+    "service-worker.js": "/navigation-great-circle-distance/service-worker.js",
+    "static/css/main.d61d8f1f.chunk.css.map": "/navigation-great-circle-distance/static/css/main.d61d8f1f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbdb7ce9.js",
+    "static/js/2.a5dfedab.chunk.js",
+    "static/css/main.d61d8f1f.chunk.css",
+    "static/js/main.cb89c6b1.chunk.js"
+  ]
+}
